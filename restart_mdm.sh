@@ -1,2 +1,2 @@
-sudo docker restart mdm
+sudo docker restart mdmdi
 sudo docker restart mdmstatsddi
